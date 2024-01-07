@@ -14,7 +14,7 @@ To integrate Gemini into your C# project, follow these steps:
 1. **Import the DLL:**
    - Download the Gemini DLL and add it to your project.
    ```csharp
-   using Gemini;
+   using GoogleGemini;
 
 2. **Usage Example:**
    ```csharp
