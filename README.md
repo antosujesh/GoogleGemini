@@ -18,5 +18,5 @@ To integrate Gemini into your C# project, follow these steps:
 
 2. **Usage Example:**
    ```csharp
-   Gemini.AskMe("YOUR_KEY", "What is the capital of Tamil Nadu?");
+   string result = Gemini.AskMe("YOUR_KEY", "What is the capital of Tamil Nadu?");
 
