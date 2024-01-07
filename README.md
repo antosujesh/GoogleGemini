@@ -1,9 +1,10 @@
 # GoogleGemini
 GoogleGemini, dll for C#
 
-**Version : v1beta **
-**Model   : Gemini-Pro **
+
 ## Gemini-Pro v1beta
+**Version : v1beta**
+**Model   : Gemini-Pro**
 
 ## Using Google Gemini AI Library in C#
 
