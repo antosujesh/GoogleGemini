@@ -4,6 +4,7 @@ GoogleGemini, dll for C#
 
 ## Gemini-Pro v1beta
 **Version : v1beta**
+
 **Model   : Gemini-Pro**
 
 ## Using Google Gemini AI Library in C#
